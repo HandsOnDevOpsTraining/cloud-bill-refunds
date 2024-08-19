@@ -3,7 +3,7 @@
 2. Search for support request in the search bar
    https://portal.azure.com/#create/Microsoft.Support
 3. Then click on **create support ticket**
-   <img width="1227" alt="image" src="https://github.com/HandsOnDevOpsTraining/cloud-bill-refunds/assets/129347802/5c64f760-9d8e-4d9f-9bc7-7c72cfcc1814">
+   <img width="1324" alt="image" src="https://github.com/user-attachments/assets/d0fdf406-b807-4da2-993c-04ea9126d7e9">
 4. Provide below content
    <img width="1696" alt="image" src="https://github.com/HandsOnDevOpsTraining/cloud-bill-refunds/assets/129347802/de162545-4552-404d-8cfc-8e6c3329969e">
    Other examples - I am new to Azure Cloud and I am exploring the cloud platforms like Azure, AWS and GCP for my mini project. I was unaware that running AKS continously will incur charges. Because of this un-awareness, there are huge amount of bills for my account. Kindly consider to refund the last 2 invoices and I will be using the services carefully.
